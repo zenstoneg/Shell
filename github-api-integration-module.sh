@@ -1,9 +1,7 @@
 #!/bin/bash
 ################################
 # Author: Abhishek
-# Version: v1
-#
-#
+# Version:#
 #
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
